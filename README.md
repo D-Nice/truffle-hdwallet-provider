@@ -1,10 +1,10 @@
-# truffle-hdwallet-provider
-HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 1-24 word mnemonic.
+# truffle-hdwallet-provider-temp
+HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 1-24 word mnemonic. (Hopefully temporary and gets merged upstream)
 
 ## Install
 
 ```
-$ npm install truffle-hdwallet-provider
+$ npm install truffle-hdwallet-provider-temp
 ```
 
 ## General Usage
